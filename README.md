@@ -13,6 +13,8 @@
     <tr>
       <th>
         <h4>Permission</h4>
+      </th>
+      <th>
         <h4>Reason</h4>
       </th>
     </tr>
