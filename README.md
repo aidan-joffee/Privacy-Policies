@@ -12,10 +12,10 @@
   <thead>
     <tr>
       <th>
-        <h4>Permission</h4>
+        <b>Permission</b>
       </th>
       <th>
-        <h4>Reason</h4>
+        <b>Reason</b>
       </th>
     </tr>
   </thead>
