@@ -23,7 +23,7 @@
        <b>android.permission.CAMERA</b>
       </td>
        <td>
-       To scan barcodes the app requires access to the camera, in order to be able to read the barcodes. This app also allows for the capturing and uploading of photos, which also requires acess to the device's camera.
+       To order to enable the viewing, scanning and reading of barcodes - which is the entire purpose of this application - the app will need access to the device's camera. This app also allows for the capturing and uploading of photos, which also requires access to the device's camera.
       </td>
     </tr>
   </tbody>
