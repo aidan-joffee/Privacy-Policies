@@ -1,5 +1,3 @@
-# Privacy-Policies
-
 <h1>
   Asset Scanner
 </h1>
